@@ -1,0 +1,44 @@
+h1 {
+    color:blue;
+    font-family:cursive;
+}
+
+h2 {
+    color:turquoise;
+}
+
+body {
+    background-color: #000000;
+}
+
+#big-picture {
+    height: 500px;
+    width: 500px;
+    border-style: solid;
+    border-color: coral;
+}
+
+ul li:hover {
+    color:white;
+}
+
+ul li {
+    color:yellow;
+    font-family: sans-serif;
+}
+
+p {
+    color:red;
+}
+
+.different {
+    text-align:center;
+}
+
+#origin-text {
+    font-size:200px;
+}
+
+#unknown {
+    font-size:100px;
+}

@@ -18,16 +18,16 @@ body {
     border-color: coral;
 }
 
-.list:hover {
+ul li:hover {
     color:white;
 }
 
-.list {
+ul li {
     color:yellow;
     font-family: sans-serif;
 }
 
-body p {
+p {
     color:red;
 }
 

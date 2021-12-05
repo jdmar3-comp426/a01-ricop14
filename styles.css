@@ -18,11 +18,11 @@ body {
     border-color: coral;
 }
 
-ul li:hover {
+.list:hover {
     color:white;
 }
 
-ul li {
+.list {
     color:yellow;
     font-family: sans-serif;
 }
